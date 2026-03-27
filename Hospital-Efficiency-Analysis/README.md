@@ -7,7 +7,7 @@
 In this case study, I acted as a consultant for **HealthStat** to uncover insights into hospital operational efficiency. The analysis focuses on New York State-wide hospital discharge data, specifically targeting patients who underwent **elective hip replacement surgery**.
 
 ## Dashboard Walkthrough
-![Media/walkthrough.gif](Media/walkthrough.gif)
+![Media/walkthrough_hosp.gif](Media/walkthrough_hosp.gif)
 
 ## Motivation & Problem Statement
 Efficiency in healthcare is defined by avoiding waste—minimizing the misuse of equipment, energy, and ideas. 
