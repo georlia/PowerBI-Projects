@@ -11,3 +11,5 @@ In this project, I built a comprehensive Power BI report to explore a dataset of
 In this case study, I acted as a consultant for HealthStat to uncover insights into hospital operational efficiency. The analysis focuses on New York State-wide hospital discharge data, specifically targeting patients who underwent elective hip replacement surgery
 
 ---
+## 3. Case Study: Ecommerce Analysis
+![Ecommerce-Analysis/Media/walkthrough_ec.gif](Ecommerce-Analysis/Media/walkthrough_ec.gif)
