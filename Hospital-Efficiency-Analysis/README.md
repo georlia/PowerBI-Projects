@@ -1,6 +1,6 @@
 # 🏥Case Study: Analyzing Healthcare Data 
 
-> **Stakeholder:**  Datacamp.   
+> **Stakeholder:**  HealthStat Consulting (Datacamp).   
 > **Objective:**  Identify hospital efficiency opportunities by analyzing Length of Stay (LOS) and Cost.
 
 ## Project Overview
