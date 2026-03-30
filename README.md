@@ -16,3 +16,8 @@ In this case study, I acted as a consultant for HealthStat to uncover insights i
 In this role as a Data Analyst for Whiskique, an online pet supply retailer, I transformed raw e-commerce data into a strategic tool for decision-making. The project focuses on the delicate balance between high-volume sales and the underlying costs of the supply chain—specifically COGS, freight, and last-mile delivery.
 
 ---
+## 4. Case Study: Mortgage Trading Analysis
+![Mortgage-Trading-Analysis/Media/walkthrough_mor.gif](Mortgage-Trading-Analysis/Media/walkthrough_mor.gif)
+In this advanced case study, I acted as a Junior Trader for a mortgage originator. The project simulates the lifecycle of a mortgage within the broader financial system—from lending to borrowers to selling those loan agreements to large investment banks. I was responsible for data modeling the loan population, calculating the current principal via amortization, and executing a trade that balances firm profitability with market competitiveness.
+
+---
