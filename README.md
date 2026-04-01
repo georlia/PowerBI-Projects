@@ -21,3 +21,8 @@ In this role as a Data Analyst for Whiskique, an online pet supply retailer, I t
 In this advanced case study, I acted as a Junior Trader for a mortgage originator. The project simulates the lifecycle of a mortgage within the broader financial system—from lending to borrowers to selling those loan agreements to large investment banks. I was responsible for data modeling the loan population, calculating the current principal via amortization, and executing a trade that balances firm profitability with market competitiveness.
 
 ---
+## 5. Case Study: Inventory Analysis
+![Inventory-Analysis/Media/walkthrough_inv.gif](Inventory-Analysis/Media/walkthrough_inv.gif)
+In this role as a Strategic Consultant for WarmeHands Inc., I conducted a deep-dive inventory audit to solve a classic business problem: Which items are worth the investment for restocking? Using a fictitious dataset of 104 items across five categories, I moved from basic profit metrics to advanced efficiency ratios and classification models to provide data-driven purchasing recommendations.
+
+---
