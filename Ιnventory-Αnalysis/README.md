@@ -40,8 +40,7 @@ Poor inventory management leads to high storage costs, capital tied up in "dead 
   * **Seasonality:** While Average Inventory accounts for some fluctuation, the model does not currently predict specific seasonal peaks (e.g., holiday spikes) for 2022.
 
 ## Repository Contents
-  * `/Backgrounds`: Custom layouts for the WarmeHands inventory dashboard.
-  * `/Dataset`: Six CSV files (Sales, Product, Stock, etc.).
-  * `/Media`: Video walkthrough demonstrating the ABC classification and year-over-year slicers.
-  * `/Template`: The Power BI template (.pbit) file.
-  * `WarmeHands-Inventory-Optimization.pbix`: The final interactive report.
+  * `/Datasets`: Two CSV files.
+  * `/Media`: A video walkthrough of the dashboard.
+  * `/Theme`: The theme of the dashboard.
+  * `Inventory-Analysis.pbix`: The final Power BI interactive report.
