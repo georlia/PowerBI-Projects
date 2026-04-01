@@ -6,7 +6,7 @@
 ## Project Overview
 In this role as a Data Analyst for **Whiskique**, an online pet supply retailer, I transformed raw e-commerce data into a strategic tool for decision-making. The project focuses on the delicate balance between high-volume sales and the underlying costs of the supply chain—specifically COGS, freight, and last-mile delivery.
 
-## Dashboard Walkthrough
+## Strategic Report Walkthrough
 ![Media/walkthrough_ec.gif](Media/walkthrough_ec.gif)
 
 ## Motivation & Problem Statement
@@ -38,6 +38,6 @@ Whiskique faces the classic e-commerce challenge: growing the customer base whil
 
 ## Repository Contents
 * `/Datasets`: Four CSV files.
-* `/Media`: A video walkthrough of the dashboard.
-* `/Theme`: The theme of the dashboard.
-* `Ecommerce-Analysis.pbix`: The final Power BI interactive dashboard.
+* `/Media`: A video walkthrough of the strategic report.
+* `/Theme`: The theme of the strategic report.
+* `Ecommerce-Analysis.pbix`: The final Power BI strategic report.
