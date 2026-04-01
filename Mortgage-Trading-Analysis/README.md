@@ -6,13 +6,13 @@
 ## Project Overview
 In this advanced case study, I acted as a **Junior Trader** for a mortgage originator. The project simulates the lifecycle of a mortgage within the broader financial system—from lending to borrowers to selling those loan agreements to large investment banks. I was responsible for data modeling the loan population, calculating the current principal via amortization, and executing a trade that balances firm profitability with market competitiveness.
 
-## Dashboard Walkthrough
+## Financial Report Walkthrough
 ![Media/walkthrough_mor.gif](Media/walkthrough_mor.gif)
 
 ## Motivation & Problem Statement
 Lenders must sell their loans in the capital markets to regain the liquidity needed to issue new loans. This "recycling" of money is the heartbeat of the financial system.
   * **The Challenge:** Determining which loans to sell and at what price requires balancing risk (Credit Scores, LTV) against market demand.
-  * **The Goal:** To build a trading desk dashboard that allows the desk to:
+  * **The Goal:** To build a trading desk financial report that allows the desk to:
       * Filter and identify a trade-ready population of mortgages.
       * Compare bids from multiple institutional buyers to find the **Maximum Bid**.
       * Analyze the **Weighted Average Price** to understand the true value of the trade.
@@ -38,6 +38,6 @@ Lenders must sell their loans in the capital markets to regain the liquidity nee
 
 ## Repository Contents
   * `/Datasets`: Six Excel sheets.
-  * `/Media`: A video walkthrough of the dashboard.
-  * `/Theme`: The Power BI theme for the report.
-  * `Mortgage-Trading-Analysis.pbix`: The final interactive trading report.
+  * `/Media`: A video walkthrough of the financial report.
+  * `/Theme`: The Power BI theme for the financial report.
+  * `Mortgage-Trading-Analysis.pbix`: The final interactive financial report.
