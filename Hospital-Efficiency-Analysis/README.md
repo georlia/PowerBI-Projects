@@ -36,7 +36,7 @@ Efficiency in healthcare is defined by avoiding waste—minimizing the misuse of
 
 ## Repository Contents
 * `/Backgrounds`: The backgrounds of every dashboard page.
-* `/Dataset`: The dataset.
+* `/Dataset`: CSV file.
 * `/Media`: A video walthrough of the dashboard.
 * `/Template`: The template of the dashboard.
 * `Hospital-Efficiency-Analysis.pbix`: The final Power BI interactive dashboard.
