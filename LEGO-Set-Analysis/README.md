@@ -12,7 +12,7 @@ In this project, I built a comprehensive Power BI report to explore a dataset of
 ## Motivation & Problem Statement
 With thousands of LEGO sets released over decades, navigating the inventory to find specific value-for-money metrics or age-appropriate sets can be overwhelming.
   * **The Challenge:** Raw LEGO data contains noise (missing prices/URLs) and requires logical grouping to be useful for consumer analysis.
-  * **The Goal:** To create a dynamic dashboard that allows users to:
+  * **The Goal:** To create an analytical report that allows users to:
       * Quickly filter sets based on specific price thresholds and age categories.
       * Visualize individual set details (images and specs) through interactive table hovers.
       * Analyze the hierarchy of LEGO products from broad categories down to individual set names.
@@ -37,6 +37,6 @@ With thousands of LEGO sets released over decades, navigating the inventory to f
 
 ## Repository Contents
   * `/Datasets`: The LEGO sets CSV dataset.
-  * `/Media`: A video walkthrough of the dashboard.
-  * `LEGO-Set-Explorer.pbix`: The final Power BI interactive dashboard.
+  * `/Media`: A video walkthrough of the analytical report.
+  * `LEGO-Set-Explorer.pbix`: The final Power BI analytical report.
   * `Lego_Logo.png`: A logo of LEGO company.
