@@ -37,7 +37,7 @@ Lenders must sell their loans in the capital markets to regain the liquidity nee
   * **Prepayment Risk:** The analysis assumes loans pay as scheduled; in reality, borrowers often refinance or pay early, which complicates the "Future Value" of the trade.
 
 ## Repository Contents
-  * `/Datasets`: 
+  * `/Datasets`: Six Excel sheets.
   * `/Media`: A video walkthrough of the dashboard.
   * `/Theme`: The Power BI theme for the report.
   * `Mortgage-Trading-Analysis.pbix`: The final interactive trading report.
