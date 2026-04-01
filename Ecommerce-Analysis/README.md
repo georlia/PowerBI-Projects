@@ -37,7 +37,7 @@ Whiskique faces the classic e-commerce challenge: growing the customer base whil
   * **Fictitious Constraints:** As the data is synthetic, external market factors (competitor pricing, fuel surcharges) were not factored into the shipping cost model.
 
 ## Repository Contents
-* `/Datasets`: The datasets.
-* `/Media`: A video walthrough of the dashboard.
+* `/Datasets`: 
+* `/Media`: A video walkthrough of the dashboard.
 * `/Theme`: The theme of the dashboard.
 * `Ecommerce-Analysis.pbix`: The final Power BI interactive dashboard.
