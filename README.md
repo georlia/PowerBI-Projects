@@ -1,5 +1,5 @@
 #  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) PowerBI Projects
-My PowerBI Projects from Datacamp, Maven Analytics
+My PowerBI Projects from Maven Analytics, Datacamp.
 
 ## 1. LEGO Set Explorer  
 ![LEGO-Set-Analysis/Media/walkthrough.gif](LEGO-Set-Analysis/Media/walkthrough.gif)
