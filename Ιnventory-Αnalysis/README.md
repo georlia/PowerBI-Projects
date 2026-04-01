@@ -6,7 +6,7 @@
 ## Project Overview
 In this role as a Strategic Consultant for **WarmeHands Inc.**, I conducted a deep-dive inventory audit to solve a classic business problem: *Which items are worth the investment for restocking?* Using a fictitious dataset of 104 items across five categories, I moved from basic profit metrics to advanced efficiency ratios and classification models to provide data-driven purchasing recommendations.
 
-## Dashboard Walkthrough
+## Optimization Report Walkthrough
 ![Media/walkthrough_inv.gif](Media/walkthrough_inv.gif)
 
 ## Motivation & Problem Statement
@@ -41,6 +41,6 @@ Poor inventory management leads to high storage costs, capital tied up in "dead 
 
 ## Repository Contents
   * `/Datasets`: Two CSV files.
-  * `/Media`: A video walkthrough of the dashboard.
-  * `/Theme`: The theme of the dashboard.
-  * `Inventory-Analysis.pbix`: The final Power BI interactive report.
+  * `/Media`: A video walkthrough of the optimization report.
+  * `/Theme`: The theme of the optimization report.
+  * `Inventory-Analysis.pbix`: The final Power BI optimization report.
