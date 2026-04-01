@@ -22,7 +22,7 @@ In this advanced case study, I acted as a Junior Trader for a mortgage originato
 
 ---
 ## 5. Case Study: Inventory Analysis
-![Inventory-Analysis/Media/walkthrough_inv.gif](Inventory-Analysis/Media/walkthrough_inv.gif)
+![Ιnventory-Αnalysis/Media/walkthrough_inv.gif](Ιnventory-Αnalysis/Media/walkthrough_inv.gif)
 In this role as a Strategic Consultant for WarmeHands Inc., I conducted a deep-dive inventory audit to solve a classic business problem: Which items are worth the investment for restocking? Using a fictitious dataset of 104 items across five categories, I moved from basic profit metrics to advanced efficiency ratios and classification models to provide data-driven purchasing recommendations.
 
 ---
