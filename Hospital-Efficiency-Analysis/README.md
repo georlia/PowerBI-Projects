@@ -6,13 +6,13 @@
 ## Project Overview
 In this case study, I acted as a consultant for **HealthStat** to uncover insights into hospital operational efficiency. The analysis focuses on New York State-wide hospital discharge data, specifically targeting patients who underwent **elective hip replacement surgery**.
 
-## Dashboard Walkthrough
+## Analytical Report Walkthrough
 ![Media/walkthrough_hosp.gif](Media/walkthrough_hosp.gif)
 
 ## Motivation & Problem Statement
 Efficiency in healthcare is defined by avoiding waste—minimizing the misuse of equipment, energy, and ideas. 
 * **The Challenge:** High **Length of Stay (LOS)** increases operational costs and reduces a hospital's capacity to serve more patients.
-* **The Goal:** To create an engaging dashboard that allows stakeholders to:
+* **The Goal:** To create an analytical report that allows stakeholders to:
     * Identify outlier hospitals with high costs and LOS relative to the state average.
     * Understand the impact of surgical program size on efficiency.
     * Perform **Root Cause Analysis** to find factors influencing LOS.
@@ -35,9 +35,9 @@ Efficiency in healthcare is defined by avoiding waste—minimizing the misuse of
 * **Data Privacy:** The dataset is de-identified; therefore, patient-level longitudinal tracking (readmissions) was not possible.
 
 ## Repository Contents
-* `/Backgrounds`: The backgrounds of every dashboard page.
+* `/Backgrounds`: The backgrounds of every analytical report page.
 * `/Dataset`: CSV file.
-* `/Media`: A video walthrough of the dashboard.
-* `/Template`: The template of the dashboard.
-* `Hospital-Efficiency-Analysis.pbix`: The final Power BI interactive dashboard.
+* `/Media`: A video walthrough of the analytical report.
+* `/Template`: The template of the analytical report.
+* `Hospital-Efficiency-Analysis.pbix`: The final Power BI analytical report.
 
