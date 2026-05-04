@@ -1,6 +1,5 @@
 #  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) PowerBI Projects
-My PowerBI Projects from  Datacamp.
-
+                                                                                                                       
 ## 1. Case Study: Ecommerce Analysis
 ![Ecommerce-Analysis/Media/walkthrough_ec.gif](Ecommerce-Analysis/Media/walkthrough_ec.gif)
 In this role as a Data Analyst for Whiskique, an online pet supply retailer, I transformed raw e-commerce data into a strategic tool for decision-making. The project focuses on the delicate balance between high-volume sales and the underlying costs of the supply chain—specifically COGS, freight, and last-mile delivery.
