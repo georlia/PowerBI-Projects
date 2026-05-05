@@ -11,12 +11,8 @@ In this case study, I acted as a consultant for HealthStat to uncover insights i
 ps, age ranges, and price points to help collectors or analysts identify specific market segments
 
 ---
-## 3. Case Study: Mortgage Trading Analysis
-![Mortgage-Trading-Analysis/Media/walkthrough_mor.gif](Mortgage-Trading-Analysis/Media/walkthrough_mor.gif)
-In this advanced case study, I acted as a Junior Trader for a mortgage originator. The project simulates the lifecycle of a mortgage within the broader financial system—from lending to borrowers to selling those loan agreements to large investment banks. I was responsible for data modeling the loan population, calculating the current principal via amortization, and executing a trade that balances firm profitability with market competitiveness.
 
----
-## 4. Case Study: Inventory Analysis
+## 3. Case Study: Inventory Analysis
 ![Ιnventory-Αnalysis/Media/walkthrough_inv.gif](Ιnventory-Αnalysis/Media/walkthrough_inv.gif)
 In this role as a Strategic Consultant for WarmeHands Inc., I conducted a deep-dive inventory audit to solve a classic business problem: Which items are worth the investment for restocking? Using a fictitious dataset of 104 items across five categories, I moved from basic profit metrics to advanced efficiency ratios and classification models to provide data-driven purchasing recommendations.
 
