@@ -44,8 +44,8 @@ Whiskique faces the classic e-commerce challenge: growing the customer base whil
 
 ## Repository Structure
 ```
-* **/Datasets**: Four CSV files.
-* **/Media**: A video walkthrough of the strategic report.
-* **/Theme**: The theme of the strategic report.
-* **Ecommerce-Analysis.pbix**: The final Power BI strategic report.
+* /Datasets : Four CSV files.
+* /Media: A video walkthrough of the strategic report.
+* /Theme: The theme of the strategic report.
+* Ecommerce-Analysis.pbix: The final Power BI strategic report.
 ```
