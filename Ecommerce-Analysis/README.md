@@ -26,6 +26,12 @@ Whiskique faces the classic e-commerce challenge: growing the customer base whil
     3.  **Market Basket Insights:** Analyzed product correlations to identify which items are frequently bought together to inform marketing strategies.
     4.  **UI/UX:** Focused on "Dashboard-style" pages using high-contrast KPIs for Sales and Shipping Savings to ensure immediate clarity for management.
 
+## Quantified Business Impact
+  * **Shipping Cost Optimization:** The What-If analysis shows that increasing average shipped quantity to 11 units reduces total shipping costs from $385.15K to $266.96K — a **savings of $118.19K (≈30.7% reduction)**. Applied against the current baseline profit of $427.34K, this represents a potential **~27.6% profit uplift** without any change in sales volume.
+  * **Margin Gap by Category:** Electronics carries the highest profit margin (44.28%), while Pet Food — despite driving the highest sales volume — has the lowest margin (20.64%). This highlights a clear upsell opportunity: shifting purchase behavior toward higher-margin categories or bundling Pet Food with higher-margin add-ons would improve overall profitability.
+  * **Cross-sell Opportunity:** Market basket analysis identified consistent purchase pairs (e.g. Dog and Puppy Pads with Earth Rated Dog Poop Bags), providing concrete, data-driven bundle recommendations for the marketing team.
+
+
 ## Key Insights (Business Questions Answered)
   * **Shipping Optimization:** Demonstrated that consolidating shipments or increasing the units-per-package directly reduces "last-mile" expenses, significantly increasing the net profit per transaction.
   * **Growth Levers:** Identified specific organic pet food lines that serve as high-value "Upsell" targets for customers currently buying standard recurring items.
