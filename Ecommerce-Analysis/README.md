@@ -42,8 +42,10 @@ Whiskique faces the classic e-commerce challenge: growing the customer base whil
   * **Market Basket Complexity:** While high-frequency pairs were identified, full correlation coefficient analysis was out of scope due to the need for advanced nested DAX formulas.
   * **Fictitious Constraints:** As the data is synthetic, external market factors (competitor pricing, fuel surcharges) were not factored into the shipping cost model.
 
-## Repository Contents
+## Repository Structure
+```
 * `/Datasets`: Four CSV files.
 * `/Media`: A video walkthrough of the strategic report.
 * `/Theme`: The theme of the strategic report.
 * `Ecommerce-Analysis.pbix`: The final Power BI strategic report.
+```
