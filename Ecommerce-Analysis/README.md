@@ -1,6 +1,6 @@
 # 🐶Ecommerce Analysis
 
-> **Stakeholder:** Whiskique Management Team (Datacamp).        
+> **Stakeholder:** Whiskique Management Team (DataCamp).        
 > **Objective:** Drive sales growth through upselling/cross-selling and reduce operational expenses by optimizing "last-mile" shipping costs.
 
 ## Project Overview
