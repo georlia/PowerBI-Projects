@@ -1,4 +1,4 @@
-# 🐶Case Study: Ecommerce Analysis
+# 🐶Ecommerce Analysis
 
 > **Stakeholder:** Whiskique Management Team (Datacamp).        
 > **Objective:** Drive sales growth through upselling/cross-selling and reduce operational expenses by optimizing "last-mile" shipping costs.
