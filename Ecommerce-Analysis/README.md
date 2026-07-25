@@ -18,7 +18,7 @@ Whiskique faces the classic e-commerce challenge: growing the customer base whil
       * Map the relationship between Product, Customer, and State data to find regional efficiency gaps.
 
 ## Technology & Process
-  * **Tool:** Power BI.
+  * **Tools:** Power BI (Power Query, DAX, Data Modeling)
   * **Data Architecture:** Developed a relational model using four CSV sources (**Sales, Product, Customer, and State Mapping**) connected via a Star Schema.
   * **The Process:**
     1.  **Supply Chain Modeling:** Integrated cost structures (COGS, Freight, Fulfillment, and Shipping) into the data model to calculate true profit.
